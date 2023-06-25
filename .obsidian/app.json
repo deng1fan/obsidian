@@ -1,0 +1,23 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "communityPluginSortOrder": "download",
+  "communityThemeSortOrder": "download",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "_resources",
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "showFrontmatter": true,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "fileSortOrder": "byModifiedTime",
+  "strictLineBreaks": false,
+  "lineWrap": true,
+  "foldHeading": true,
+  "useMarkdownLinks": true,
+  "defaultViewMode": "preview",
+  "showInlineTitle": true
+}

@@ -1,0 +1,77 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "accentColor",
+  "fontWeight": 700,
+  "maxResults": 10,
+  "showStarredFiles": true,
+  "showRecentFiles": true,
+  "maxRecentFiles": 10,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "accentColor",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": true,
+  "recentFilesStore": [
+    {
+      "filepath": "项目/识因/政策问答/方案.md",
+      "timestamp": 1687659362286
+    },
+    {
+      "filepath": "项目/清华华控智加/未命名.md",
+      "timestamp": 1687659356714
+    },
+    {
+      "filepath": "项目/清华华控智加/故障类型整理.md",
+      "timestamp": 1687659355687
+    },
+    {
+      "filepath": "收集箱/Ideas.md",
+      "timestamp": 1687659353594
+    },
+    {
+      "filepath": "收集箱/未命名.md",
+      "timestamp": 1687659350457
+    },
+    {
+      "filepath": "个人/TODOs.md",
+      "timestamp": 1687659341694
+    },
+    {
+      "filepath": "论文投稿/期刊会议/KBS【CCF-C】【一区】.md",
+      "timestamp": 1687395951797
+    },
+    {
+      "filepath": "论文投稿/审稿资料/审稿记录.table",
+      "timestamp": 1687225728483
+    },
+    {
+      "filepath": "论文投稿/投稿审核文件/审核文件.md",
+      "timestamp": 1687225723737
+    },
+    {
+      "filepath": "项目/兼职-CSP 比赛/上课方案.md",
+      "timestamp": 1686901814561
+    }
+  ],
+  "starredFileStore": [
+    {
+      "filepath": "个人/TODOs.md"
+    }
+  ],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false
+}

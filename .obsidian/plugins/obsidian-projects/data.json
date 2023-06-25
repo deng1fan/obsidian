@@ -1,0 +1,231 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "tags": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "学习笔记/调研",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 202
+              },
+              "path": {
+                "width": 285,
+                "hide": true
+              },
+              "quickshare-url": {
+                "width": 358
+              },
+              "quickshare-date": {
+                "width": 205
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "24c0557e-dd8c-4af9-ad5a-dee5a32ddef9",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "75510245-bbb6-4bef-ada4-17fdacfc7343",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "f6312361-86dd-47d7-aee1-a3fd14234856",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "id": "083831fa-697f-4be4-ab23-7920b9641bcb",
+      "name": "调研"
+    },
+    {
+      "fieldConfig": {
+        "F-会议地点": {
+          "richText": true
+        },
+        "D-Camera-Ready": {
+          "richText": true
+        },
+        "C-作者通知时间": {},
+        "B-全文 DDL": {},
+        "G-Website": {
+          "richText": true
+        },
+        "H-Submission Website": {
+          "richText": true
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "其他/模板/笔记模板/期刊会议信息笔记.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "论文投稿/期刊会议",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "G-Website": {
+                "width": 203
+              },
+              "tags": {
+                "width": 180
+              },
+              "H-Submission Website": {
+                "width": 243
+              },
+              "F-会议地点": {
+                "width": 148
+              },
+              "E-会议时间": {
+                "width": 156
+              },
+              "C-作者通知时间": {
+                "width": 169
+              },
+              "B-全文 DDL": {
+                "width": 150
+              },
+              "A-摘要 DDL": {
+                "width": 149
+              },
+              "CCF": {
+                "hide": true
+              },
+              "name": {
+                "width": 267
+              }
+            },
+            "sortField": "CCF",
+            "sortAsc": true
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "name",
+                "operator": "is-not-empty"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "CCF",
+                  "operator": "is",
+                  "value": "A"
+                }
+              },
+              {
+                "color": "#ffbd80",
+                "condition": {
+                  "field": "CCF",
+                  "operator": "is",
+                  "value": "B"
+                }
+              },
+              {
+                "color": "#24bf22",
+                "condition": {
+                  "field": "CCF",
+                  "operator": "is",
+                  "value": "C"
+                }
+              }
+            ]
+          },
+          "id": "bc176ba6-357e-4c89-9e17-476f84d10aac",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "6ac31d67-2ba0-4cf8-92c4-55cc3fe7671f",
+          "name": "Calendar",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "groupByField": "name"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "3903cb9a-ff78-4f34-9093-5dbd5a5a9b98",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "368dbb93-bf08-425e-b66a-c1c7182dd960",
+      "name": "期刊会议"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": []
+  }
+}

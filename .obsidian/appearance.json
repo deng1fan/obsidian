@@ -1,0 +1,13 @@
+{
+  "translucency": false,
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "Blue Topaz"
+  ],
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "accentColor": "#3381d5",
+  "nativeMenus": false,
+  "showViewHeader": false
+}

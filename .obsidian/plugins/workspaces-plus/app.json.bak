@@ -1,0 +1,19 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "communityPluginSortOrder": "download",
+  "communityThemeSortOrder": "download",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./附件",
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "showFrontmatter": false,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "fileSortOrder": "byModifiedTime",
+  "strictLineBreaks": false,
+  "lineWrap": true
+}

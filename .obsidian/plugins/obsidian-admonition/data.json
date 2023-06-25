@@ -1,0 +1,50 @@
+{
+  "userAdmonitions": {
+    "attention": {
+      "type": "attention",
+      "color": "242, 7, 156",
+      "icon": {
+        "name": "bolt",
+        "type": "font-awesome"
+      },
+      "command": true,
+      "title": "注意",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "note": {
+      "type": "note",
+      "color": "212, 22, 22",
+      "icon": {
+        "name": "pen-nib",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "看法",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": true,
+  "version": "9.3.1",
+  "autoCollapse": true,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": true,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.1d735e"
+}

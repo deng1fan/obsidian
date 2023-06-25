@@ -1,0 +1,89 @@
+{
+  "recentFiles": [
+    {
+      "basename": "方案",
+      "path": "项目/识因/政策问答/方案.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "项目/清华华控智加/未命名.md"
+    },
+    {
+      "basename": "故障类型整理",
+      "path": "项目/清华华控智加/故障类型整理.md"
+    },
+    {
+      "basename": "Ideas",
+      "path": "收集箱/Ideas.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "收集箱/未命名.md"
+    },
+    {
+      "basename": "TODOs",
+      "path": "个人/TODOs.md"
+    },
+    {
+      "basename": "KBS【CCF-C】【一区】",
+      "path": "论文投稿/期刊会议/KBS【CCF-C】【一区】.md"
+    },
+    {
+      "basename": "审稿记录",
+      "path": "论文投稿/审稿资料/审稿记录.table"
+    },
+    {
+      "basename": "审核文件",
+      "path": "论文投稿/投稿审核文件/审核文件.md"
+    },
+    {
+      "basename": "最牛的 Prompt",
+      "path": "学习笔记/调研/大模型/Prompt/最牛的 Prompt.md"
+    },
+    {
+      "basename": "上课方案",
+      "path": "项目/兼职-CSP 比赛/上课方案.md"
+    },
+    {
+      "basename": "论文集",
+      "path": "学习笔记/调研/幻觉/论文集.md"
+    },
+    {
+      "basename": "可信模型",
+      "path": "学习笔记/调研/可信模型.md"
+    },
+    {
+      "basename": "会思考的狗、聪明的马和随机鹦鹉",
+      "path": "学习笔记/调研/幻觉/会思考的狗、聪明的马和随机鹦鹉.md"
+    },
+    {
+      "basename": "LLAMA 微调",
+      "path": "项目/识因/LLAMA 微调.md"
+    },
+    {
+      "basename": "Chinese-Vicuna",
+      "path": "学习笔记/开源代码库/Chinese-Vicuna.md"
+    },
+    {
+      "basename": "InfomationSciences【CCF-B】【一区】",
+      "path": "论文投稿/期刊会议/InfomationSciences【CCF-B】【一区】.md"
+    },
+    {
+      "basename": "剧本生成输入形式",
+      "path": "项目/识因/剧本/剧本生成输入形式.md"
+    },
+    {
+      "basename": "剧本生成测试用例",
+      "path": "项目/识因/剧本/剧本生成测试用例.md"
+    },
+    {
+      "basename": "向量数据库与幻觉",
+      "path": "学习笔记/调研/幻觉/向量数据库与幻觉.md"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "maxLength": 20,
+  "openType": "split"
+}

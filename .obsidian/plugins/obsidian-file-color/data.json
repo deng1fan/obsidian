@@ -1,0 +1,61 @@
+{
+  "palette": [
+    {
+      "id": "wsB9eoNIrCJCyGkTELYU_",
+      "name": "重要",
+      "value": "#cf0707"
+    },
+    {
+      "id": "Ct_byvBRd8rTOQkMR1YfO",
+      "name": "常用",
+      "value": "#3213cd"
+    },
+    {
+      "id": "p2DHiHTwlxSuTzrFeSsKf",
+      "name": "附件",
+      "value": "#6dc723"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "学习笔记/调研",
+      "color": "wsB9eoNIrCJCyGkTELYU_"
+    },
+    {
+      "path": "_其他",
+      "color": "p2DHiHTwlxSuTzrFeSsKf"
+    },
+    {
+      "path": "_resources",
+      "color": "p2DHiHTwlxSuTzrFeSsKf"
+    },
+    {
+      "path": "项目",
+      "color": "Ct_byvBRd8rTOQkMR1YfO"
+    },
+    {
+      "path": "论文投稿",
+      "color": "Ct_byvBRd8rTOQkMR1YfO"
+    },
+    {
+      "path": "个人",
+      "color": "Ct_byvBRd8rTOQkMR1YfO"
+    },
+    {
+      "path": "党",
+      "color": "Ct_byvBRd8rTOQkMR1YfO"
+    },
+    {
+      "path": "学习笔记/常用配置",
+      "color": "Ct_byvBRd8rTOQkMR1YfO"
+    },
+    {
+      "path": "学习笔记",
+      "color": "Ct_byvBRd8rTOQkMR1YfO"
+    },
+    {
+      "path": "收集箱",
+      "color": "Ct_byvBRd8rTOQkMR1YfO"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "{{citekey}}",
+  "literatureNoteFolder": "",
+  "literatureNoteContentTemplate": "---\nType: {{entry.type}}\nAuthors: {{authorString}}\nYear: {{year}}\nTitle: {{title}}\nJournal: {{containerTitle}}\nDOI: {{DOI}}\nPublisher: {{publisher}}\n---\n\n#  ({{year}}){{title}}\n###                  ——{{authorString}}\n[*Read it now! See in Zotero*]({{zoteroSelectURI}})\n**Web:** [Open online]({{URL}})\n**Citekey:** {{citekey}}\n**Tags:** {{#each entry.data.fields.keywords}}{{#if @last}}#{{this}}{{else}}#{{this}}, {{/if}}{{/each}}\n**Code:** [*Available Here*]()\n\n\n## 摘要\n{{abstract}}\n\n## 总结\n\n  \n## 研究动机\n\n\n## 研究背景/ 问题描述\n\n\n## 方法的创新点\n\n\n## Baselines\n[]()       [*Code*]()\n> \n\n## 实验评测\n\n\n## 实验结论\n\n\n## 笔记\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/dengyifan/Documents/Obsidian/科研日常/我的文库.bib"
+}

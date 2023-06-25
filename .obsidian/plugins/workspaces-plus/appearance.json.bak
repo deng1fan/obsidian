@@ -1,0 +1,9 @@
+{
+  "translucency": false,
+  "cssTheme": "Things",
+  "theme": "moonstone",
+  "enabledCssSnippets": [],
+  "baseFontSize": 30,
+  "baseFontSizeAction": true,
+  "accentColor": ""
+}

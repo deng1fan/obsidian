@@ -1,0 +1,386 @@
+{
+  "main": {
+    "id": "8c6501515c0a6c01",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a45a8aa0ece5706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f090e7931c26d3b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习笔记/调研/幻觉/论文集.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e97341dbe2930598",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "个人/TODOs.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "432eac50891b7c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文投稿/期刊会议/KBS【CCF-C】【一区】.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cdc9177320948b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文投稿/期刊会议/InfomationSciences【CCF-B】【一区】.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "867491cb59c64ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文投稿/期刊会议/KBS【CCF-C】【一区】.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfbc6c730e077087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/兼职-CSP 比赛/上课方案.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e0076fc030ba24d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习笔记/开源代码库/Chinese-Vicuna.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eace606a5e97a894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习笔记/调研/大模型/Prompt/最牛的 Prompt.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22b330276fe5c7dd",
+            "type": "leaf",
+            "state": {
+              "type": "notion-like-tables",
+              "state": {
+                "file": "论文投稿/审稿资料/审稿记录.table"
+              }
+            }
+          },
+          {
+            "id": "d3ee6aefa2372c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/识因/政策问答/方案.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df4692311d86e81f",
+    "type": "split",
+    "children": [
+      {
+        "id": "20abb995f24553b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad20802c80b7fabd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da3c5c5d47a35714",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "8b32e2cf240a0839",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2b276fe8ad6da85",
+        "type": "tabs",
+        "dimension": 59.267480577136524,
+        "children": [
+          {
+            "id": "d7043f0841fd8a20",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "62b8a36002edbd63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "项目/识因/政策问答/方案.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba5d508915df584f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "项目/识因/政策问答/方案.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "53d83f86ebec9f9f",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1e3be28168ef816",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "作者",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e09ba8190fee480b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab328247c7bcb49d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "项目/识因/政策问答/方案.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "a2ea976abaa36530",
+        "type": "tabs",
+        "dimension": 40.73251942286348,
+        "children": [
+          {
+            "id": "26b5f223bae065d5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b3447eaa6f1e630",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dea529c9ea37cb0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": true,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "workspaces:管理工作区布局": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-stille:Toggle Stille": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "templates:插入模板": true,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-projects:Open projects": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-map-view:Open map view": false,
+      "homepage:Open homepage": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "d3ee6aefa2372c5b",
+  "lastOpenFiles": [
+    "项目/清华华控智加/未命名.md",
+    "项目/清华华控智加/故障类型整理.md",
+    "收集箱/Ideas.md",
+    "收集箱/未命名.md",
+    "个人/TODOs.md",
+    "论文投稿/投稿审核文件/审核文件.md",
+    "学习笔记/调研/大模型/Prompt/最牛的 Prompt.md",
+    "学习笔记/调研/幻觉/论文集.md",
+    "学习笔记/常用配置/爱思唯尔期刊模板设置.md",
+    "学习笔记/调研/可信模型.md",
+    "学习笔记/调研/幻觉/会思考的狗、聪明的马和随机鹦鹉.md",
+    "_resources/会思考的狗、聪明的马和随机鹦鹉",
+    "_resources/未命名/4d6b143f286b7862b4a8ede50f5c0b63_MD5.webp",
+    "项目/识因/LLAMA 微调.md",
+    "学习笔记/开源代码库/Chinese-Vicuna.md",
+    "项目/兼职-CSP 比赛/上课方案.md",
+    "论文投稿/期刊会议/KBS【CCF-C】【一区】.md",
+    "论文投稿/期刊会议/InfomationSciences【CCF-B】【一区】.md",
+    "项目/识因/剧本/剧本生成输入形式.md",
+    "项目/识因/剧本/剧本生成测试用例.md",
+    "_resources/上课方案/30445eb3914d7ba64c1fd9985bec687e_MD5.png",
+    "_resources/上课方案/9705072a7ec9c032a5c5b478d57b4a6e_MD5.png",
+    "_resources/上课方案/9f2fedcb09821fc1a7f8ebca2e4c8706_MD5.png",
+    "学习笔记/调研/幻觉/向量数据库与幻觉.md",
+    "_resources/向量数据库与幻觉/f110587b22af8dc9731cf7d92c1154b4_MD5.webp",
+    "_resources/向量数据库与幻觉",
+    "项目/识因/政策问答/方案.md",
+    "_resources/上课方案/d342a5db7f232d09a059f1f29cc4d113_MD5.png",
+    "_resources/上课方案/10b0d1eaf3325e8552ca9472ae2ec7aa_MD5.png",
+    "_resources/上课方案/b37388b87b81acb2b0745eaa3e1a9f9a_MD5.png",
+    "_resources/上课方案/0f445ac12c654488f0183c1481132ebb_MD5.png",
+    "_resources/上课方案/17bfa3c5543b0a8928d779c88633d608_MD5.png",
+    "论文投稿/已投或在投论文/2023 ACL/（录用）Towards Faithful Dialogs via Focus Learning.md",
+    "_resources/（录用）Towards Faithful Dialogs via Focus Learning/final_v11.pdf",
+    "学习笔记/调研/大模型/大模型总结.md",
+    "论文投稿/期刊会议/未命名.md",
+    "_resources/LLAMA 微调",
+    "项目/清华华控智加/故障数据挖掘.md",
+    "学习笔记/调研/幻觉/大模型中的幻觉问题.md",
+    "学习笔记/调研/幻觉/对话大模型中的事实错误：ChatGPT 的缺陷.md",
+    "_resources/方案",
+    "项目/识因/政策问答",
+    "_resources/上课方案",
+    "_resources/大模型中的幻觉问题",
+    "学习笔记/调研/幻觉",
+    "项目/兼职-CSP 比赛",
+    "其他/未命名.canvas",
+    "白板/未命名.canvas",
+    "未命名.canvas"
+  ]
+}

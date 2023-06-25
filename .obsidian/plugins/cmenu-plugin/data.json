@@ -1,0 +1,109 @@
+{
+  "aestheticStyle": "default",
+  "menuCommands": [
+    {
+      "id": "cmenu-plugin:editor:toggle-bold",
+      "name": "cMenu: Toggle bold",
+      "icon": "bold-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-strikethrough",
+      "name": "cMenu: Toggle strikethrough",
+      "icon": "strikethrough-glyph"
+    },
+    {
+      "id": "cmenu-plugin:underline",
+      "name": "cMenu: Toggle underline",
+      "icon": "underline-glyph"
+    },
+    {
+      "id": "cmenu-plugin:superscript",
+      "name": "cMenu: Toggle superscript",
+      "icon": "superscript-glyph"
+    },
+    {
+      "id": "cmenu-plugin:subscript",
+      "name": "cMenu: Toggle subscript",
+      "icon": "subscript-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-code",
+      "name": "cMenu: Toggle code",
+      "icon": "code-glyph"
+    },
+    {
+      "id": "cmenu-plugin:codeblock",
+      "name": "cMenu: Toggle codeblock",
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-blockquote",
+      "name": "cMenu: Toggle blockquote",
+      "icon": "quote-glyph"
+    },
+    {
+      "id": "workspace:copy-url",
+      "name": "复制 Obsidian 链接",
+      "icon": "duplicate-glyph"
+    },
+    {
+      "id": "obsidian-citation-plugin:open-literature-note",
+      "name": "Citations: Open literature note",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Ctrl",
+            "Shift"
+          ],
+          "key": "o"
+        }
+      ],
+      "icon": "documents"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-highlight",
+      "name": "cMenu: Toggle highlight",
+      "icon": "highlight-glyph"
+    },
+    {
+      "id": "notion-like-tables:nlt-add-table",
+      "name": "Notion-Like Tables: Add table",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Shift"
+          ],
+          "key": "="
+        }
+      ],
+      "icon": "hashtag"
+    },
+    {
+      "id": "obsidian-admonition:insert-admonition",
+      "name": "Admonition: Insert Admonition",
+      "icon": "info"
+    },
+    {
+      "id": "obsidian-tasks-plugin:edit-task",
+      "name": "Tasks: Create or edit task",
+      "icon": "pencil"
+    },
+    {
+      "id": "obsidian-file-path-to-uri:paste-file-path-as-file-uri-link",
+      "name": "File path to URI: Paste file path as file uri link",
+      "hotkeys": [],
+      "icon": "links-going-out"
+    }
+  ],
+  "appendMethod": "body",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 2,
+  "cMenuNumRows": 8
+}
