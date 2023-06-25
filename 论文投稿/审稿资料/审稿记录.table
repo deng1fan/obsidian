@@ -1,0 +1,150 @@
+{
+  "model": {
+    "rows": [
+      {
+        "id": "e9517a3a-6e61-4dbc-8d28-7e41b23b17b4",
+        "menuCellId": "90a1e257-912a-4e87-aac0-d3821d632f8f",
+        "creationTime": 1680598778706,
+        "lastEditedTime": 1680598973749
+      },
+      {
+        "id": "133e9a04-5084-4c7d-aa8a-f3a37f74b4ed",
+        "menuCellId": "0e2b69cc-1c8a-4115-a9a8-937ad8bce965",
+        "creationTime": 1680598841932,
+        "lastEditedTime": 1680598887625
+      },
+      {
+        "id": "149e77cb-98d5-484f-afa9-678473182ee7",
+        "menuCellId": "d59de66d-d093-479c-83d6-28f80f261c23",
+        "creationTime": 1680598859017,
+        "lastEditedTime": 1680598891570
+      }
+    ],
+    "columns": [
+      {
+        "id": "5e80f5f4-5ac2-47b9-bd8f-a284d6944287",
+        "sortDir": "default",
+        "width": "362px",
+        "type": "text",
+        "hasAutoWidth": false,
+        "shouldWrapOverflow": true,
+        "footerCellId": "7aa39bc0-f862-47e0-a226-7ccbec0650ca"
+      },
+      {
+        "id": "4d01227b-f029-495b-90c5-07227206ff0c",
+        "sortDir": "default",
+        "width": "276px",
+        "type": "text",
+        "hasAutoWidth": false,
+        "shouldWrapOverflow": true,
+        "footerCellId": "c1c1745b-ff75-4032-95d3-061849bc337b"
+      },
+      {
+        "id": "e69abd5d-5729-427a-9217-08d2d38dc2c4",
+        "sortDir": "default",
+        "width": "271px",
+        "type": "text",
+        "hasAutoWidth": false,
+        "shouldWrapOverflow": true,
+        "footerCellId": "45e099e0-27f5-49aa-a946-a2590562df3e"
+      },
+      {
+        "id": "4b13e75e-d13c-44b0-b00d-d21ff165cd0f",
+        "sortDir": "default",
+        "width": "140px",
+        "type": "text",
+        "hasAutoWidth": false,
+        "shouldWrapOverflow": true,
+        "footerCellId": "c544c912-cb76-4c6e-b9ca-726a5ab35979"
+      }
+    ],
+    "cells": [
+      {
+        "id": "bd28c13a-23bd-4024-ab67-c34d0d7d4c70",
+        "columnId": "5e80f5f4-5ac2-47b9-bd8f-a284d6944287",
+        "rowId": "e9517a3a-6e61-4dbc-8d28-7e41b23b17b4",
+        "markdown": "论文",
+        "isHeader": true
+      },
+      {
+        "id": "f790982e-874a-4463-9c60-57482e48fd04",
+        "columnId": "4d01227b-f029-495b-90c5-07227206ff0c",
+        "rowId": "e9517a3a-6e61-4dbc-8d28-7e41b23b17b4",
+        "markdown": "期刊或会议",
+        "isHeader": true
+      },
+      {
+        "id": "6266b596-1c17-4dae-aae5-c352f47bedbf",
+        "columnId": "e69abd5d-5729-427a-9217-08d2d38dc2c4",
+        "rowId": "e9517a3a-6e61-4dbc-8d28-7e41b23b17b4",
+        "markdown": "网站",
+        "isHeader": true
+      },
+      {
+        "id": "224a3900-2930-4d12-b74c-67c46e6d9234",
+        "columnId": "4b13e75e-d13c-44b0-b00d-d21ff165cd0f",
+        "rowId": "e9517a3a-6e61-4dbc-8d28-7e41b23b17b4",
+        "markdown": "进度",
+        "isHeader": true
+      },
+      {
+        "id": "55fb1f5c-2883-49c1-bcdd-0699035f1a3c",
+        "columnId": "5e80f5f4-5ac2-47b9-bd8f-a284d6944287",
+        "rowId": "133e9a04-5084-4c7d-aa8a-f3a37f74b4ed",
+        "markdown": "Human Motion Pattern Recognition based on Nano-sensor and Deep Learning",
+        "isHeader": false
+      },
+      {
+        "id": "a8d5e383-97da-4fe2-ae4b-ecc7babcc635",
+        "columnId": "4d01227b-f029-495b-90c5-07227206ff0c",
+        "rowId": "133e9a04-5084-4c7d-aa8a-f3a37f74b4ed",
+        "markdown": " Information Technology And Control（ITC）",
+        "isHeader": false
+      },
+      {
+        "id": "ee162df8-4d46-4d5d-9f33-9808e6f1e274",
+        "columnId": "e69abd5d-5729-427a-9217-08d2d38dc2c4",
+        "rowId": "133e9a04-5084-4c7d-aa8a-f3a37f74b4ed",
+        "markdown": "https://itc.ktu.lt/index.php/ITC/submissions",
+        "isHeader": false
+      },
+      {
+        "id": "52f7a742-f19e-4d74-9c71-f8b084345da9",
+        "columnId": "4b13e75e-d13c-44b0-b00d-d21ff165cd0f",
+        "rowId": "133e9a04-5084-4c7d-aa8a-f3a37f74b4ed",
+        "markdown": "✅",
+        "isHeader": false
+      },
+      {
+        "id": "81934aad-bce6-47b5-add8-10dbc6d324b0",
+        "columnId": "5e80f5f4-5ac2-47b9-bd8f-a284d6944287",
+        "rowId": "149e77cb-98d5-484f-afa9-678473182ee7",
+        "markdown": "Estimation for Human Motion Posture and health using improved deep learning and Nano biosensor",
+        "isHeader": false
+      },
+      {
+        "id": "abe7ef05-6c6b-472d-bbe2-f784aa972bc1",
+        "columnId": "4d01227b-f029-495b-90c5-07227206ff0c",
+        "rowId": "149e77cb-98d5-484f-afa9-678473182ee7",
+        "markdown": "International Journal of Computational Intelligence Systems（IJCI）",
+        "isHeader": false
+      },
+      {
+        "id": "d4fc3601-4919-4717-869f-9170d2787193",
+        "columnId": "e69abd5d-5729-427a-9217-08d2d38dc2c4",
+        "rowId": "149e77cb-98d5-484f-afa9-678473182ee7",
+        "markdown": "https://www.editorialmanager.com/ijci/default2.aspx",
+        "isHeader": false
+      },
+      {
+        "id": "bb25128d-f8f9-46ff-914f-f4416099b567",
+        "columnId": "4b13e75e-d13c-44b0-b00d-d21ff165cd0f",
+        "rowId": "149e77cb-98d5-484f-afa9-678473182ee7",
+        "markdown": "✅",
+        "isHeader": false
+      }
+    ],
+    "tags": []
+  },
+  "pluginVersion": 600
+}
