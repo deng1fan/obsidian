@@ -135,9 +135,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ddf9fe9a36e3e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习笔记/常用配置/PyPi.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38f55a8abce0d1a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习笔记/调研/大模型/理解 RLHF 全过程 —— 以ColossalChat为例.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -197,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目/识因/政策问答/方案.md",
+                "file": "学习笔记/调研/大模型/理解 RLHF 全过程 —— 以ColossalChat为例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目/识因/政策问答/方案.md",
+                "file": "学习笔记/调研/大模型/理解 RLHF 全过程 —— 以ColossalChat为例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/识因/政策问答/方案.md"
+                "file": "学习笔记/调研/大模型/理解 RLHF 全过程 —— 以ColossalChat为例.md"
               }
             }
           }
@@ -331,13 +357,19 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d3ee6aefa2372c5b",
+  "active": "38f55a8abce0d1a1",
   "lastOpenFiles": [
+    "学习笔记/调研/大模型/评测标准/未命名.md",
+    "_resources/未命名/2d9cd1baf6296dc4921f84601419ee59_MD5.png",
+    "_resources/未命名/26939f01d12c654670b25f279c69de32_MD5.png",
+    "_resources/未命名/b7d1fe8b61b6baac0324a95b8b808bee_MD5.png",
+    "个人/TODOs.md",
+    "学习笔记/调研/大模型/评测标准",
+    "学习笔记/常用配置/PyPi.md",
     "项目/清华华控智加/未命名.md",
     "项目/清华华控智加/故障类型整理.md",
     "收集箱/Ideas.md",
     "收集箱/未命名.md",
-    "个人/TODOs.md",
     "论文投稿/投稿审核文件/审核文件.md",
     "学习笔记/调研/大模型/Prompt/最牛的 Prompt.md",
     "学习笔记/调研/幻觉/论文集.md",
@@ -362,23 +394,16 @@
     "项目/识因/政策问答/方案.md",
     "_resources/上课方案/d342a5db7f232d09a059f1f29cc4d113_MD5.png",
     "_resources/上课方案/10b0d1eaf3325e8552ca9472ae2ec7aa_MD5.png",
-    "_resources/上课方案/b37388b87b81acb2b0745eaa3e1a9f9a_MD5.png",
-    "_resources/上课方案/0f445ac12c654488f0183c1481132ebb_MD5.png",
-    "_resources/上课方案/17bfa3c5543b0a8928d779c88633d608_MD5.png",
     "论文投稿/已投或在投论文/2023 ACL/（录用）Towards Faithful Dialogs via Focus Learning.md",
     "_resources/（录用）Towards Faithful Dialogs via Focus Learning/final_v11.pdf",
     "学习笔记/调研/大模型/大模型总结.md",
     "论文投稿/期刊会议/未命名.md",
     "_resources/LLAMA 微调",
-    "项目/清华华控智加/故障数据挖掘.md",
-    "学习笔记/调研/幻觉/大模型中的幻觉问题.md",
-    "学习笔记/调研/幻觉/对话大模型中的事实错误：ChatGPT 的缺陷.md",
     "_resources/方案",
     "项目/识因/政策问答",
     "_resources/上课方案",
     "_resources/大模型中的幻觉问题",
     "学习笔记/调研/幻觉",
-    "项目/兼职-CSP 比赛",
     "其他/未命名.canvas",
     "白板/未命名.canvas",
     "未命名.canvas"

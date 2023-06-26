@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "理解 RLHF 全过程 —— 以ColossalChat为例",
+      "path": "学习笔记/调研/大模型/理解 RLHF 全过程 —— 以ColossalChat为例.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "学习笔记/调研/大模型/评测标准/未命名.md"
+    },
+    {
+      "basename": "TODOs",
+      "path": "个人/TODOs.md"
+    },
+    {
+      "basename": "PyPi",
+      "path": "学习笔记/常用配置/PyPi.md"
+    },
+    {
       "basename": "方案",
       "path": "项目/识因/政策问答/方案.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "未命名",
       "path": "收集箱/未命名.md"
-    },
-    {
-      "basename": "TODOs",
-      "path": "个人/TODOs.md"
     },
     {
       "basename": "KBS【CCF-C】【一区】",
@@ -67,18 +79,6 @@
     {
       "basename": "InfomationSciences【CCF-B】【一区】",
       "path": "论文投稿/期刊会议/InfomationSciences【CCF-B】【一区】.md"
-    },
-    {
-      "basename": "剧本生成输入形式",
-      "path": "项目/识因/剧本/剧本生成输入形式.md"
-    },
-    {
-      "basename": "剧本生成测试用例",
-      "path": "项目/识因/剧本/剧本生成测试用例.md"
-    },
-    {
-      "basename": "向量数据库与幻觉",
-      "path": "学习笔记/调研/幻觉/向量数据库与幻觉.md"
     }
   ],
   "omittedPaths": [
